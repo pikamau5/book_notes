@@ -1,0 +1,4 @@
+- minor visual glitch
+- prevent player from playing the game
+- time to make a quick fix vs doing it properly
+- 
